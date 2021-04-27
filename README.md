@@ -1,2 +1,4 @@
 # CS691TeamDice
-Repo for PC Builder Web Application
+Repo for CS691 Capstone Project, PC Builder Web Application
+
+Please see the Wiki for details
